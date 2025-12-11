@@ -6,7 +6,7 @@ Mein Fokus liegt dabei darauf, solide Grundlagen aufzubauen und praktische Proje
 ---
 
 ## 🔍 Über mich
-- 🎓 Informatikstudent (1. Semester)  
+- 🎓 Informatikstudent  
 - 💻 Interesse an Webentwicklung, Grundlagen der Programmierung und Software-Engineering  
 - 📘 Ich lerne gerade HTML, CSS, JavaScript sowie grundlegende Konzepte der Informatik  
 - 🚀 Mein Ziel: Schritt für Schritt ein eigenes Portfolio an Projekten aufzubauen  
@@ -18,7 +18,7 @@ Mein Fokus liegt dabei darauf, solide Grundlagen aufzubauen und praktische Proje
 - **Grundlagen in JavaScript**
 - **VS Code**
 - **Git & GitHub**
-- **C & C++ **
+- C & C++ 
 
 ---
 
