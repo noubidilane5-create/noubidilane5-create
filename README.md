@@ -18,6 +18,7 @@ Mein Fokus liegt dabei darauf, solide Grundlagen aufzubauen und praktische Proje
 - **Grundlagen in JavaScript**
 - **VS Code**
 - **Git & GitHub**
+- **C & C++ **
 
 ---
 
