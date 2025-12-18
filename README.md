@@ -1,15 +1,15 @@
-# 👋 Hallo, ich bin Steve!
+#  Hallo, ich bin Steve!
 
 Ich studiere Informatik im ersten Semester und erkunde aktuell verschiedene Bereiche der IT.  
 Mein Fokus liegt dabei darauf, solide Grundlagen aufzubauen und praktische Projekte umzusetzen.
 
 ---
 
-## 🔍 Über mich
-- 🎓 Informatikstudent  
-- 💻 Interesse an Webentwicklung, Grundlagen der Programmierung und Software-Engineering  
-- 📘 Ich lerne gerade HTML, CSS, JavaScript sowie grundlegende Konzepte der Informatik  
-- 🚀 Mein Ziel: Schritt für Schritt ein eigenes Portfolio an Projekten aufzubauen  
+## Über mich
+-  Informatikstudent  
+-  Interesse an Webentwicklung, Grundlagen der Programmierung und Software-Engineering  
+- Ich lerne gerade HTML, CSS, JavaScript sowie grundlegende Konzepte der Informatik  
+-  Mein Ziel: Schritt für Schritt ein eigenes Portfolio an Projekten aufzubauen  
 
 ---
 
