@@ -1,6 +1,6 @@
 #  Hallo, ich bin Steve!
 
-Ich studiere Informatik im ersten Semester und erkunde aktuell verschiedene Bereiche der IT.  
+Ich studiere Informatik und erkunde aktuell verschiedene Bereiche der IT.  
 Mein Fokus liegt dabei darauf, solide Grundlagen aufzubauen und praktische Projekte umzusetzen.
 
 ---
